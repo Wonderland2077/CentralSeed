@@ -12,12 +12,12 @@ CentralSeed is a multi-ecosystem full-stack AI generated platform, including：
 
 ## Repo Infrastructure
 
-CentralSeed/
-backend-java/
-ai-python/
-microservice-go/
-frontend-vue/
-docker-compose.yml
+CentralSeed/  
+backend-java/  
+ai-python/  
+microservice-go/  
+frontend-vue/  
+docker-compose.yml  
 README.md
 
 ---
